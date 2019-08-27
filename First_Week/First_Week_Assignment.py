@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 27 11:00:33 2019
 
-@author: Administrator
+@author: Ramazan Güven
 """
 
 #Gereken Kütüphaneleri import ediniz 
@@ -23,9 +23,7 @@ column_names = ['CRIM', 'ZN', 'INDUS', 'CHAS', 'NOX', 'RM', 'AGE', 'DIS', 'RAD',
 #İlk 5 satırı görüntüleyiniz.(1 Satır)
 
 
-
 #Son 5 Satırı görüntüleyiniz.(1 Satır)
-
 
 
 #Datasetin Özelliklerini gösteriniz.(1 Satır)
